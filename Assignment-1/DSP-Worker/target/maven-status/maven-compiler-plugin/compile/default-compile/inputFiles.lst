@@ -1,0 +1,7 @@
+/home/paney/DSP/DSP1/DSP1-Worker/src/main/java/WorkerPackage/Worker.java
+/home/paney/DSP/DSP1/DSP1-Worker/src/main/java/WorkerPackage/SentimentAnalysisHandler.java
+/home/paney/DSP/DSP1/DSP1-Worker/src/main/java/WorkerPackage/namedEntityRecognitionHandler.java
+/home/paney/DSP/DSP1/DSP1-Worker/src/main/java/WorkerPackage/SQSHandler.java
+/home/paney/DSP/DSP1/DSP1-Worker/src/main/java/WorkerPackage/Review.java
+/home/paney/DSP/DSP1/DSP1-Worker/src/main/java/WorkerPackage/ProductReview.java
+/home/paney/DSP/DSP1/DSP1-Worker/src/main/java/WorkerPackage/ReviewOutput.java

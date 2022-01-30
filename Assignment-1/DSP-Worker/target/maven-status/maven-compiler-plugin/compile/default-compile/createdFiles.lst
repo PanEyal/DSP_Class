@@ -1,0 +1,7 @@
+WorkerPackage/Worker.class
+WorkerPackage/SQSHandler.class
+WorkerPackage/Review.class
+WorkerPackage/SentimentAnalysisHandler.class
+WorkerPackage/ReviewOutput.class
+WorkerPackage/ProductReview.class
+WorkerPackage/namedEntityRecognitionHandler.class

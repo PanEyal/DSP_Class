@@ -1,0 +1,15 @@
+Misc/StopWords.class
+MRs/BiGramCount3MR$MapperClass.class
+MRs/BiGramCount2MR$ReducerClass.class
+MRs/BiGramCount1MR$ReducerClass.class
+Misc/BigramNPMI.class
+MRs/BiGramCount1MR.class
+MRs/BiGramCount2MR$MapperClass.class
+MRs/BiGramCount3MR$ReducerClass.class
+MRs/BiGramCount2MR.class
+MRs/BiGramCount3MR.class
+Misc/BigramNPMI$BigramComparator.class
+MRs/BiGramCount1MR$counters.class
+MRs/BiGramCount1MR$MapperClass.class
+MRs/BiGramCount.class
+MRs/BiGramCount1MR$PartitionerClass.class

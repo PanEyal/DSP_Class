@@ -1,0 +1,5 @@
+LocalAppPackage/HTMLMaker.class
+LocalAppPackage/SQSHandler.class
+LocalAppPackage/EC2Handler.class
+LocalAppPackage/LocalApp.class
+LocalAppPackage/S3Handler.class

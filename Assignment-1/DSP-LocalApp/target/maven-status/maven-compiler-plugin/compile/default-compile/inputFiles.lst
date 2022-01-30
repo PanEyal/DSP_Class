@@ -1,0 +1,5 @@
+/home/paney/DSP/DSP1/DSP1-LocalApp/src/main/java/LocalAppPackage/LocalApp.java
+/home/paney/DSP/DSP1/DSP1-LocalApp/src/main/java/LocalAppPackage/SQSHandler.java
+/home/paney/DSP/DSP1/DSP1-LocalApp/src/main/java/LocalAppPackage/S3Handler.java
+/home/paney/DSP/DSP1/DSP1-LocalApp/src/main/java/LocalAppPackage/EC2Handler.java
+/home/paney/DSP/DSP1/DSP1-LocalApp/src/main/java/LocalAppPackage/HTMLMaker.java
